@@ -13,12 +13,6 @@ Demo: [https://mern-crud-mpfr.onrender.com](https://mern-crud-mpfr.onrender.com)
 
 ![MERN CRUD Screenshot](screenshot.png)
 
-## Support
-[![Follow on GitHub](https://img.shields.io/github/followers/cefjoeii.svg?style=social&label=Follow)](https://github.com/cefjoeii)
-[![GitHub Stars](https://img.shields.io/github/stars/cefjoeii/mern-crud.svg?style=social&label=Star)](https://github.com/cefjoeii/mern-crud)
-[![GitHub Forks](https://img.shields.io/github/forks/cefjoeii/mern-crud.svg?style=social&label=Fork)](https://github.com/cefjoeii/mern-crud/fork)
-[![GitHub Watchers](https://img.shields.io/github/watchers/cefjoeii/mern-crud.svg?style=social&label=Watch)](https://github.com/cefjoeii/mern-crud)
-
 ## Instructions
 
 Fork, then download or clone the repo.
